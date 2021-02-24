@@ -1,0 +1,10 @@
+-Commonly used React hooks
+  -useState 
+  -useRef
+  -useEffect
+-What is state?
+  The idea is when the user see someting new on the screen its tracked as a state. Its a two way data binding.
+  ex: Whenever the user types in a input box. Each and every character entered is creating a event and that event repalces the current value of the state. both old state and new states are stored so its easy for debugging. 
+-useState syntax
+  const [variableName, setterForTheVariableName] = useState(intialValue)
+  ex const[isLoading, setIsLoading] = useState(True)
