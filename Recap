@@ -15,6 +15,7 @@ React Hooks contribute to Page life cycle event and state management
   useEffect(() => {fuction that executes after the components are rendered completely for the first time}, [dependency array])
   useEffect(()={some functions)}, []) //Empty dependency array means- only execute the functions for the first time not after the subsequent updates
   dependency array - used for component optimization 
+  uesEffect is only called when there is change in the dependency array variables or elements 
  -useRef
   primarily to allow access directly to an element in the DOM
   
