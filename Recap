@@ -29,6 +29,7 @@ play with babel here
 babeljs.io -> try it out
 
 - use Map/filter/reduce instead of for/while
+- create UI changes using mock data and then do the app changes 
 
 
 
