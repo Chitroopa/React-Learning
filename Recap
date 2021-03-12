@@ -1,3 +1,37 @@
+Why React
+-The virtual browser (vs DOM api)
+-"Just javascript"
+-React Native 
+-Battle-tested
+-Declarative languauage (model UI and state)
+
+Components 
+-Like functions
+-input: props,state| output :UI
+-reusable and composable
+-<component />
+-can manage a private state
+
+Reactive updates 
+- React will react 
+- Take updates to the browser
+
+Virtual views in the memory
+-Generate HTML using JavaScript
+-No HTML template language
+-Tree reconciliation
+
+https://jscomplete.com/playground/rgs1.1
+
+return <div>"Hello word"</div> --> is jsx
+jsx->babel compiler -> browser
+play with babel here
+babeljs.io -> try it out
+
+
+
+
+
 React Hooks contribute to Page life cycle event and state management
 -Commonly used React hooks
   -useState 
