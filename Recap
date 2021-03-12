@@ -28,6 +28,8 @@ jsx->babel compiler -> browser
 play with babel here
 babeljs.io -> try it out
 
+- use Map/filter/reduce instead of for/while
+
 
 
 
